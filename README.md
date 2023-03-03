@@ -2,3 +2,6 @@
  Primeiro repositório do curso de Git e GitHub
 
 Repositório criado dia 03/03/2023
+
+
+Linha adicionada diretamente pelo site
